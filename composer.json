@@ -1,0 +1,11 @@
+{
+    "name": "wang/testcomposer",
+    "description": "This is a test composer.",
+    "license": "1",
+    "autoload": {
+        "psr-4": {
+            "Wang\\Testcomposer\\": "src/"
+        }
+    },
+    "require": {}
+}
